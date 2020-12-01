@@ -1,1 +1,2 @@
-dev=1
+config
+   info：dev=1
